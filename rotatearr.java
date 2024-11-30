@@ -12,8 +12,7 @@ public class rotatearr {
             arr[i]=sc.nextInt();
             
         }
-        int start=0;
-        int end=R;
+        
         for (int i=0;i<R;i++){
             int first=arr[0];
             for(int j=0;j<n-1;j++){
